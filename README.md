@@ -19,7 +19,7 @@ A continuación se muestran los enlaces que redirigen a los proyectos:
 * [**Aplicaciones para el gimnasio de la UFRO**](https://github.com/justFYM/Proyecto_FullStack_Hibernate_SpringMVC_1)
 * [**Aplicación para obtener información de la calidad ambiental**](https://github.com/justFYM/Proyecto_FullStack_Hibernate_SpringMVC_2)
 * [**Aplicaciones para solicitar o ser ayudantes de ayudantías**](https://github.com/justFYM/Proyecto_FullStack_JavaxSwing_JavaSockets)
-* [**Plataforma web de visualización de notas**](https://github.com/justFYM/Proyecto_FullStack_NodeJS_VueJS)
+* [**Aplicación de visualización de notas**](https://github.com/justFYM/Proyecto_FullStack_NodeJS_VueJS)
 
 ## Proyectos ```Front-End```:
 A continuación se muestran los enlaces que redirigen a los proyectos:
