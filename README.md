@@ -25,7 +25,7 @@ A continuación se muestran los enlaces que redirigen a los proyectos:
 A continuación se muestran los enlaces que redirigen a los proyectos:
 * [**Juego Three In Line / VueJS**](https://github.com/justFYM/Proyecto_JuegoThreeInLine_VueJS) - [**```Github Pages```**](https://justfym.github.io/Proyecto_JuegoThreeInLine_VueJS/)
 * [**Lista de tareas / VueJS**](https://github.com/justFYM/Proyecto_ListaDeTareas_VueJS) - [**```Github Pages```**](https://justfym.github.io/Proyecto_ListaDeTareas_VueJS/)
-* [**Lista de tareas / Angular**](https://github.com/justFYM/Proyecto_ListaDeTareas_VueJS) - [**```Github Pages```**](https://justfym.github.io/ListaDeTareas_Angular/)
+* [**Lista de tareas / Angular**](https://github.com/justFYM/ListaDeTareas_Angular) - [**```Github Pages```**](https://justfym.github.io/ListaDeTareas_Angular/)
 
 ## Challenges de ```Oracle Next Education (ONE)```:
 * [**Encriptador/Desencriptador de texto**](https://github.com/justFYM/Challenge1-ONE) - [**```Github Pages```**](https://justfym.github.io/Challenge1-ONE/)
