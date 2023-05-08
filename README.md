@@ -13,7 +13,7 @@ Cuento aproximadamente con 2 años de experiencia en el desarrollo de software y
 
 </p>
 
-***Es relevante mencionar que se posee una amplia experiencia en Java, SpringMVC, Hibernate y en el diseño e implementación de bases de datos relacionales. Esto se debe a haber trabajado en la actividad de titulación como desarrollador principal por aproximadamente 1 año, donde se consiguió obtener una calificación máxima de 7.0 de 7.0.***
+***Es importante destacar que se cuenta con una amplia experiencia en Java, SpringMVC, Hibernate y en el diseño e implementación de bases de datos relacionales, debido a haber trabajado con estas tecnologías en varias asignaturas de la Universidad y también en la actividad de titulación, donde se estuvo desarrollando durante aproximadamente un año, logrando obtener una calificación máxima de 7.0 de 7.0.***
 
 ## Proyectos ```Full-Stack```:
 A continuación se muestran los enlaces que redirigen a los proyectos:
