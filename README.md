@@ -15,6 +15,17 @@ Cuento aproximadamente con 2 años de experiencia en el desarrollo de software y
 
 ***Es importante destacar que se cuenta con una amplia experiencia en Java, SpringMVC, Hibernate y en el diseño e implementación de bases de datos relacionales, debido a haber trabajado con estas tecnologías en varias asignaturas de la universidad y también en la actividad de titulación, donde se estuvo desarrollando durante aproximadamente un año, logrando obtener una calificación máxima de 7.0 de 7.0.***
 
+##  Cursos y formaciones:
+* Patrones de diseño Java ***(5 horas)***  - [**```Credencial```**](https://www.udemy.com/certificate/UC-08551de9-0f31-454c-8db7-4a64f33e00d1/)
+* Curso virtual Scrum Developer | Certificación Internacional ***(5 horas)*** - [**```Credencial```**](https://www.udemy.com/certificate/UC-3cdaf2ed-5ed6-48e3-baba-28d11b474ba6/)
+* Desarrollo Personal G5 - ONE ***(35 horas)*** - [**```Credencial```**](https://app.aluracursos.com/user/manriquezfernando-ns/degree-desarrollo-personal-grupo5-one-15568/certificate)
+* Principiante en Programación G5 - ONE ***(75 horas)*** - [**```Credencial```**](https://app.aluracursos.com/user/manriquezfernando-ns/degree-programacion-primeros-pasos-grupo5-one-15570/certificate)
+
+##  Certificaciones:
+* Business Intelligence Foundation Professional Certification - BIFPC™ - [**```Credencial```**](https://www.credly.com/badges/aed735f5-882c-4cb7-a798-adb309c6f958/linked_in_profile)
+* Certified Associate In Scrum Fundamentals™ (CASF™) - [**```Credencial```**](https://www.skillfront.com/Badges/18216164534138)
+* Remote Work Professional Certification - RWPC™ - [**```Credencial```**](https://www.credly.com/badges/bb8fa051-f4f6-41bf-bd74-eb286510d6f1/linked_in_profile)
+* Scrum Foundation Professional Certificate - SFPC™ - [**```Credencial```**](https://www.credly.com/badges/f4a7c6dc-de1e-44bd-b7a3-f9de96544793/linked_in_profile)
 ## Proyectos ```Full-Stack```:
 A continuación se muestran los enlaces que redirigen a los proyectos:
 * [**Aplicaciones para el gimnasio de la UFRO**](https://github.com/justFYM/Proyecto_FullStack_Hibernate_SpringMVC_1)
