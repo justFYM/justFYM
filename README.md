@@ -27,14 +27,12 @@ Cuento aproximadamente con 2 años de experiencia en el desarrollo de software y
 * Remote Work Professional Certification - RWPC™ - [**```Credencial```**](https://www.credly.com/badges/bb8fa051-f4f6-41bf-bd74-eb286510d6f1/linked_in_profile)
 * Scrum Foundation Professional Certificate - SFPC™ - [**```Credencial```**](https://www.credly.com/badges/f4a7c6dc-de1e-44bd-b7a3-f9de96544793/linked_in_profile)
 ## Proyectos ```Full-Stack```:
-A continuación se muestran los enlaces que redirigen a los proyectos:
 * [**Aplicaciones para el gimnasio de la UFRO**](https://github.com/justFYM/Proyecto_FullStack_Hibernate_SpringMVC_1)
 * [**Aplicación para obtener información de la calidad ambiental**](https://github.com/justFYM/Proyecto_FullStack_Hibernate_SpringMVC_2)
 * [**Aplicación para solicitar o ser ayudante de ayudantías**](https://github.com/justFYM/Proyecto_FullStack_JavaxSwing_JavaSockets)
 * [**Aplicación para visualizar notas**](https://github.com/justFYM/Proyecto_FullStack_NodeJS_VueJS)
 
 ## Proyectos ```Front-End```:
-A continuación se muestran los enlaces que redirigen a los proyectos:
 * [**Juego Three In Line / VueJS**](https://github.com/justFYM/Proyecto_JuegoThreeInLine_VueJS) - [**```Github Pages```**](https://justfym.github.io/Proyecto_JuegoThreeInLine_VueJS/)
 * [**Lista de tareas / VueJS**](https://github.com/justFYM/Proyecto_ListaDeTareas_VueJS) - [**```Github Pages```**](https://justfym.github.io/Proyecto_ListaDeTareas_VueJS/)
 * [**Lista de tareas / Angular**](https://github.com/justFYM/ListaDeTareas_Angular) - [**```Github Pages```**](https://justfym.github.io/ListaDeTareas_Angular/)
