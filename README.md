@@ -19,8 +19,8 @@ Cuento aproximadamente con 2 años de experiencia en el desarrollo de software y
 A continuación se muestran los enlaces que redirigen a los proyectos:
 * [**Aplicaciones para el gimnasio de la UFRO**](https://github.com/justFYM/Proyecto_FullStack_Hibernate_SpringMVC_1)
 * [**Aplicación para obtener información de la calidad ambiental**](https://github.com/justFYM/Proyecto_FullStack_Hibernate_SpringMVC_2)
-* [**Aplicaciones para solicitar o ser ayudantes de ayudantías**](https://github.com/justFYM/Proyecto_FullStack_JavaxSwing_JavaSockets)
-* [**Aplicación de visualización de notas**](https://github.com/justFYM/Proyecto_FullStack_NodeJS_VueJS)
+* [**Aplicación para solicitar o ser ayudante de ayudantías**](https://github.com/justFYM/Proyecto_FullStack_JavaxSwing_JavaSockets)
+* [**Aplicación para visualizar notas**](https://github.com/justFYM/Proyecto_FullStack_NodeJS_VueJS)
 
 ## Proyectos ```Front-End```:
 A continuación se muestran los enlaces que redirigen a los proyectos:
@@ -30,3 +30,4 @@ A continuación se muestran los enlaces que redirigen a los proyectos:
 
 ## Challenges de ```Oracle Next Education (ONE)```:
 * [**Encriptador/Desencriptador de texto**](https://github.com/justFYM/Challenge1-ONE) - [**```Github Pages```**](https://justfym.github.io/Challenge1-ONE/)
+* [**Conversor de moneda/temperatura**](https://github.com/justFYM/Challenge_Conversor_BackEnd_ONE)
