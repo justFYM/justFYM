@@ -3,7 +3,7 @@ Soy ```Ingeniero Civil Telemático``` titulado con distinción máxima (6.7 de 7
 
 Durante mi estadía universitaria, aprobé las prácticas de estudio con calificación máxima, lo cual me permitió adquirir experiencia práctica en el campo de la ingeniería. Además, he obtenido diversos certificados que respaldan mis conocimientos en diferentes áreas, tales como el trabajo a distancia, la metodología SCRUM, en Business Intelligence y varios lenguajes de programación como Java, SQL y JavaScript. Actualmente, estoy cursando el programa ```Oracle Next Education (ONE)``` para especializarme en el desarrollo de aplicaciones backend con SpringBoot, aunque ya cuento con experiencia ocupándolo.
 
-En esta cuenta podrás encontrar algunos de los proyectos que he realizado tanto en mi estadía universitaria como de forma autodidacta. Mi intención es que puedas visualizar mi trabajo y en caso de que quieras saber más de algún proyecto, puedas contactarme para conversar al respecto. 
+En esta cuenta podrás encontrar algunos de los proyectos que he realizado tanto en mi estadía universitaria como de forma autodidacta. La intención es que puedas visualizarlos y en caso de que quieras saber más de algún proyecto, puedas contactarme para conversar al respecto.
 Cuento aproximadamente con 2 años de experiencia en el desarrollo de software y las principales tecnologías que manejo están a continuación:
 
 
@@ -13,7 +13,7 @@ Cuento aproximadamente con 2 años de experiencia en el desarrollo de software y
 
 </p>
 
-***Es importante destacar que se cuenta con una amplia experiencia en Java, SpringMVC, Hibernate y en el diseño e implementación de bases de datos relacionales, debido a haber trabajado con estas tecnologías en varias asignaturas de la universidad y también en la actividad de titulación, donde se estuvo desarrollando durante aproximadamente un año, logrando obtener una calificación máxima de 7.0 de 7.0.***
+***Es importante destacar que se cuenta con una amplia experiencia en Java, SpringMVC, Hibernate y en el diseño e implementación de bases de datos relacionales, debido a haber trabajado con estas tecnologías en varias asignaturas de la universidad y también en la actividad de titulación, donde se estuvo desarrollando una aplicación web durante aproximadamente un año, logrando obtener una calificación máxima de 7.0 de 7.0.***
 
 ##  Cursos y formaciones:
 * Patrones de diseño Java ***(5 horas)***  - [**```Credencial```**](https://www.udemy.com/certificate/UC-08551de9-0f31-454c-8db7-4a64f33e00d1/)
