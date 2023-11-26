@@ -13,9 +13,9 @@ Con aproximadamente 2 años de experiencia profesional en el desarrollo de aplic
 <p align="center">
 
 </p>
-Si gustas, puedes explorar mi cuenta, donde encontrarás diversos proyectos realizados durante mi etapa universitaria y de forma autodidacta, además de algunas certificaciones y cursos que he realizado.
+Si gustas, puedes explorar mi cuenta, donde encontrarás diversos proyectos realizados durante mi estadía universitaria y de forma autodidacta, además de algunas certificaciones y cursos que he realizado.
 
-***Se cuenta con una amplia experiencia en Java, SpringMVC, Hibernate y en el diseño e implementación de bases de datos relacionales. Esta experiencia se ha desarrollado a lo largo de mi carrera académica, donde he trabajado con estas tecnologías en varias asignaturas universitarias. Además, tuve la oportunidad de aplicar este conocimiento de manera práctica en la actividad de titulación de mi carrera. En este proyecto, trabajé bajo contrato para el desarrollo de una aplicación web en un destacado proyecto, logrando obtener una calificación máxima de 7.0 de 7.0***
+***Cabe mencionar que se cuenta con una amplia experiencia en Java, SpringMVC, Hibernate y en el diseño e implementación de bases de datos relacionales. Esta experiencia se ha desarrollado a lo largo de mi carrera académica, donde he trabajado con estas tecnologías en varias asignaturas universitarias. Además, tuve la oportunidad de aplicar este conocimiento de manera práctica en la actividad de titulación de mi carrera. En este proyecto, trabajé bajo contrato para el desarrollo de una aplicación web en un destacado proyecto, logrando obtener una calificación máxima de 7.0 de 7.0***
 
 ##  Cursos y formaciones:
 * Patrones de diseño Java ***(5 horas)***  - [**```Credencial```**](https://www.udemy.com/certificate/UC-08551de9-0f31-454c-8db7-4a64f33e00d1/)
