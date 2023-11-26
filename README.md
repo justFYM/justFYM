@@ -10,7 +10,7 @@ Con aproximadamente 2 años de experiencia profesional en el desarrollo de aplic
 <p align="center">
 
 </p>
-Actualmente, ocupo el puesto de Developer Engineer en una destacada empresa que presta servicios a la industria minera, donde he consolidado mi experiencia en el desarrollo de aplicaciones web.
+Actualmente, ocupo el puesto de Developer Engineer en una destacada compañía que presta servicios a la industria minera, donde he consolidado mi experiencia en el desarrollo de aplicaciones web.
 
 Si gustas, puedes explorar la cuenta, donde encontrarás diversos proyectos realizados durante mi estadía universitaria y de forma autodidacta, además de algunas certificaciones y cursos que he realizado.
 
