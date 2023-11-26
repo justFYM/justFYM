@@ -19,8 +19,8 @@ Si gustas, puedes explorar la cuenta, donde encontrarás diversos proyectos real
 ##  Cursos y formaciones:
 * Patrones de diseño Java ***(5 horas)***  - [**```Credencial```**](https://www.udemy.com/certificate/UC-08551de9-0f31-454c-8db7-4a64f33e00d1/)
 * Curso virtual Scrum Developer | Certificación Internacional ***(5 horas)*** - [**```Credencial```**](https://www.udemy.com/certificate/UC-3cdaf2ed-5ed6-48e3-baba-28d11b474ba6/)
-* Desarrollo Personal G5 - ONE ***(35 horas)*** - [**```Credencial```**](https://app.aluracursos.com/user/manriquezfernando-ns/degree-desarrollo-personal-grupo5-one-15568/certificate)
-* Principiante en Programación G5 - ONE ***(75 horas)*** - [**```Credencial```**](https://app.aluracursos.com/user/manriquezfernando-ns/degree-programacion-primeros-pasos-grupo5-one-15570/certificate)
+* Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero ***(25.5 horas)*** - [**```Credencial```**](https://www.udemy.com/certificate/UC-4f172967-6111-4bbd-8d7b-51bc60daad1e/)
+* Programa Oracle Next Education F2 T5 Back-end ***(331 horas)*** - [**```Credencial```**](https://app.aluracursos.com/user/manriquezfernando-ns/program/certificate)
 
 ##  Certificaciones:
 * Business Intelligence Foundation Professional Certification - BIFPC™ - [**```Credencial```**](https://www.credly.com/badges/aed735f5-882c-4cb7-a798-adb309c6f958/linked_in_profile)
