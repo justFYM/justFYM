@@ -1,7 +1,7 @@
 # ¡Bienvenido/a! 👋
 Soy Ingeniero Civil Telemático, graduado con distinción máxima (6.7 de 7.0) de la Universidad de La Frontera. Durante las prácticas de estudio, las aprobé con calificación máxima, lo que me proporcionó una valiosa experiencia práctica en el ámbito de la Ingeniería, centrada en el desarrollo de software y proyectos de Tecnologías de la Información (TI).
 
-Actualmente, ocupo el cargo de Developer Engineer en una destacada empresa que presta servicios a la industria minera, donde he consolidado mi experiencia en el desarrollo de aplicaciones web.
+Actualmente, ocupo el puesto de Developer Engineer en una destacada empresa que presta servicios a la industria minera, donde he consolidado mi experiencia en el desarrollo de aplicaciones web.
 
 He obtenido diversos certificados relevantes que respaldan mi compromiso con el desarrollo profesional, especialmente en el ámbito del full stack. El 30 de septiembre de 2023, concluí con éxito el programa Oracle Next Education, ampliando mis conocimientos en full stack y en particular en el desarrollo de aplicaciones Back End con Java (Spring Boot).
 
@@ -14,7 +14,8 @@ Con aproximadamente 2 años de experiencia profesional en el desarrollo de aplic
 
 </p>
 Si gustas, puedes explorar mi cuenta, donde encontrarás diversos proyectos realizados durante mi etapa universitaria y de forma autodidacta, además de algunas certificaciones y cursos que he realizado.
-***Es importante destacar que se cuenta con una amplia experiencia en Java, SpringMVC, Hibernate y en el diseño e implementación de bases de datos relacionales, debido a haber trabajado con estas tecnologías en varias asignaturas de la universidad y también en la actividad de titulación, donde se estuvo desarrollando una aplicación web durante aproximadamente un año, logrando obtener una calificación máxima de 7.0 de 7.0.***
+
+***Se cuenta con una amplia experiencia en Java, SpringMVC, Hibernate y en el diseño e implementación de bases de datos relacionales. Esta experiencia se ha desarrollado a lo largo de mi carrera académica, donde he trabajado con estas tecnologías en varias asignaturas universitarias. Además, tuve la oportunidad de aplicar este conocimiento de manera práctica en la actividad de titulación de mi carrera. En este proyecto, trabajé bajo contrato para el desarrollo de una aplicación web en un destacado proyecto, logrando obtener una calificación máxima de 7.0 de 7.0***
 
 ##  Cursos y formaciones:
 * Patrones de diseño Java ***(5 horas)***  - [**```Credencial```**](https://www.udemy.com/certificate/UC-08551de9-0f31-454c-8db7-4a64f33e00d1/)
