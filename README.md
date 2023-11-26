@@ -1,5 +1,5 @@
 # ¡Bienvenido/a! 👋
-Soy Ingeniero Civil Telemático, graduado con distinción máxima (6.7 de 7.0) de la Universidad de La Frontera. Durante las prácticas de estudio, las aprobé con calificación máxima, lo que me proporcionó una valiosa experiencia práctica en el ámbito de la Ingeniería, centrada en el desarrollo de software y proyectos de Tecnologías de la Información (TI).
+Soy Ingeniero Civil Telemático, graduado con distinción máxima (6.7 de 7.0) de la Universidad de La Frontera. Durante mis prácticas de estudio, logré aprobarlas con calificación máxima, lo que me brindó una valiosa experiencia práctica en el ámbito de la Ingeniería. Estas prácticas estuvieron enfocadas en el desarrollo de software y proyectos de Tecnologías de la Información (TI), permitiéndome aplicar y consolidar mis conocimientos en un entorno práctico y real.
 
 Actualmente, ocupo el puesto de Developer Engineer en una destacada empresa que presta servicios a la industria minera, donde he consolidado mi experiencia en el desarrollo de aplicaciones web.
 
